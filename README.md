@@ -1,5 +1,6 @@
 Karaoke Project
 =========================
+In the framework of the Real Time Embedded Systems course Final Project at EPFL, Balási and me developed a Karaoke system based on an Altera device which contains an FPGA and an ARM module embedded in the same die. The FPGA modules mix a microphone signal and an audio playback from the computer. The mixed audio signal is played through an audio codec in the Altera device. At the same time, the ARM module reads the lyrics of the desired karaoke song from an SD card connected to the Altera device. The lyrics can be displayed into a screen connected by VGA to the Altera platform. Then, you are ready to start singing.
 
 Contributors
 ------------
